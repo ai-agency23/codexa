@@ -1,0 +1,251 @@
+{
+  "meta": {
+    "title": "CODEXA — Independent Digital Studio",
+    "description": "CODEXA turns ambitious ideas into modern digital products, websites and intelligent solutions."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "process": "Process",
+    "contact": "Contact",
+    "talk": "Let's Talk",
+    "menuOpen": "Open navigation menu",
+    "menuClose": "Close navigation menu",
+    "skip": "Skip to content",
+    "language": "Choose language",
+    "navigation": "Main navigation"
+  },
+  "hero": {
+    "eyebrow": "Independent digital studio",
+    "headline": "WE BUILD\nWHAT’S NEXT.",
+    "body": "From digital experiences to intelligent solutions, CODEXA transforms ambitious ideas into powerful digital products.",
+    "primary": "Start a Project",
+    "secondary": "Explore Our Work",
+    "scroll": "Scroll to explore",
+    "sceneLabel": "Interactive digital core",
+    "dragHint": "Drag to explore",
+    "loading": "Building the digital core",
+    "unavailable": "3D view unavailable",
+    "fallback": "The interactive 3D view is not available on this device. The rest of the experience is ready to explore.",
+    "orbitLabel": "Interactive 3D object. Drag to rotate; use the controls or scroll to explore.",
+    "status": "Digital systems, made human",
+    "sceneControls": "Digital core rotation controls",
+    "rotateLeft": "Rotate the digital core left",
+    "rotateRight": "Rotate the digital core right"
+  },
+  "about": {
+    "eyebrow": "A studio for what comes next",
+    "title": "WE TURN IDEAS INTO DIGITAL EXPERIENCES.",
+    "body": "CODEXA is a digital studio focused on building modern websites, innovative prototypes, and intelligent solutions. We combine technology, design, and strategic thinking to help ideas become functional digital products.",
+    "principles": [
+      { "number": "01", "title": "Think Creatively", "body": "Look at the challenge from a new angle." },
+      { "number": "02", "title": "Build Intelligently", "body": "Make each decision work harder." },
+      { "number": "03", "title": "Move Forward", "body": "Turn thoughtful ideas into real momentum." }
+    ],
+    "visual": {
+      "center": "Digital\nreality",
+      "creativity": "Creativity",
+      "technology": "Technology",
+      "business": "Business",
+      "caption": "Where ideas find their shape"
+    }
+  },
+  "services": {
+    "eyebrow": "What we do",
+    "title": "BUILT AROUND\nYOUR NEXT MOVE.",
+    "body": "From the first page to an intelligent workflow, we bring the right tools and thinking to each challenge.",
+    "learnMore": "Explore service",
+    "learnLess": "Show less",
+    "visualLabel": "Service concept",
+    "visuals": {
+      "website": "Digital presence",
+      "websiteSub": "A clearer way in",
+      "prototype": "Product concept",
+      "prototypeSub": "From sketch to signal",
+      "ai": "Connected intelligence",
+      "aiSub": "Workflows in sync"
+    },
+    "items": [
+      {
+        "number": "01",
+        "title": "Websites & Landing Pages",
+        "description": "We design and develop modern, responsive websites that strengthen your digital presence and turn visitors into customers.",
+        "capabilities": ["Landing pages", "Business websites", "Portfolio websites", "Booking websites", "Responsive web experiences"],
+        "visual": "website"
+      },
+      {
+        "number": "02",
+        "title": "Startup Prototypes",
+        "description": "We transform early-stage ideas into interactive digital prototypes that help founders visualize, test, and present their products.",
+        "capabilities": ["MVP prototypes", "Startup concepts", "Interactive app prototypes", "Digital product interfaces", "Product validation experiences"],
+        "visual": "prototype"
+      },
+      {
+        "number": "03",
+        "title": "AI Assistants & Automation",
+        "description": "We help businesses work smarter through intelligent AI assistants, automated workflows, and connected digital systems.",
+        "capabilities": ["AI assistants", "Business automation", "Workflow integration", "AI-powered customer support", "Intelligent business processes"],
+        "visual": "ai"
+      }
+    ]
+  },
+  "projects": {
+  "eyebrow": "Selected work",
+  "title": "IDEAS IN MOTION.\nPROJECTS IN PROGRESS.",
+  "body": "A look at the digital products taking shape in our studio.",
+  "development": "In development",
+  "explore": "Explore project",
+  "preview": "Project screenshot",
+  "previewLabel": "Project screenshot",
+  "cardIndex": "Project",
+  "previews": {
+    "smile": {
+      "headline": "Care that moves with you",
+      "subline": "Physiotherapy, closer",
+      "action": "Find your path",
+      "label": "SMILE DZ · HEALTH"
+    },
+    "taskflow": {
+      "headline": "Make room for focus",
+      "subline": "Today’s priorities",
+      "action": "View workflow",
+      "label": "TASKFLOW · PRODUCTIVITY"
+    },
+    "campus": {
+      "headline": "Campus, connected",
+      "subline": "Your student space",
+      "action": "Open campus",
+      "label": "CAMPUS+ DZ · EDUCATION"
+    }
+  },
+  "items": [
+    {
+      "number": "01",
+      "name": "SMILE DZ",
+      "category": "Healthcare / Physiotherapy Website",
+      "description": "A modern digital experience designed to connect women with physiotherapy services through an accessible and user-friendly website.",
+      "preview": "smile"
+    },
+    {
+      "number": "02",
+      "name": "TASKFLOW",
+      "category": "Productivity / Web Application",
+      "description": "A productivity platform designed to help users organize tasks, manage workflows, and improve everyday productivity.",
+      "preview": "taskflow"
+    },
+    {
+      "number": "03",
+      "name": "CAMPUS+ DZ",
+      "category": "Education / Student Application",
+      "description": "A digital concept designed to create a more connected and engaging experience for university students.",
+      "preview": "campus"
+    }
+   ],
+
+  "details": {
+  "close": "Close project details",
+  "status": "Project Status",
+  "taskflow": {
+    "type": "WEB APPLICATION",
+    "tagline": "Work Smarter. Stay Organized.",
+    "overviewTitle": "Project Overview",
+    "overview": "TaskFlow is a productivity web application designed to help users manage tasks, organize workflows, and track their daily progress through an intuitive workspace.",
+    "featuresTitle": "Key Features",
+    "features": [
+      "Task Management",
+      "Dashboard & Progress Tracking",
+      "Calendar View",
+      "Search & Filters",
+      "Multilingual Interface (EN / FR / AR)",
+      "User Authentication"
+    ],
+    "technologiesTitle": "Technologies",
+    "technologies": ["React", "Vite", "Supabase"],
+    "status": "In Development"
+  },
+  "campus": {
+    "type": "MOBILE APP CONCEPT",
+    "tagline": "Your Campus, Connected.",
+    "overviewTitle": "Project Overview",
+    "overview": "Campus+ DZ is a student-centered mobile application concept designed to bring academic life, campus information, and student activities into one connected experience.",
+    "featuresTitle": "Planned Features",
+    "features": [
+      "Academic Schedule",
+      "Courses & Study Resources",
+      "University Announcements",
+      "Student Community",
+      "Campus Services"
+    ],
+        "technologiesTitle": "Platform",
+    "technologies": ["Android", "Mobile Application"],
+    "status": "Concept & Development"
+    }
+  }
+},
+  "process": {
+  
+    "eyebrow": "A clear path forward",
+    "title": "FROM IDEA TO\nDIGITAL REALITY.",
+    "body": "A thoughtful process keeps the work focused, collaborative and moving in the right direction.",
+    "steps": [
+      { "number": "01", "title": "Discover", "body": "We understand your idea, goals, audience, and business needs." },
+      { "number": "02", "title": "Design", "body": "We define the experience, structure, and visual direction." },
+      { "number": "03", "title": "Develop", "body": "We transform the concept into a functional digital product." },
+      { "number": "04", "title": "Launch & Evolve", "body": "We prepare your product for launch and help you move toward continuous improvement." }
+    ]
+  },
+  "why": {
+    "eyebrow": "Why CODEXA",
+    "title": "TECHNOLOGY\nWITH PURPOSE.",
+    "body": "Good digital work connects clear thinking, considered design and useful technology.",
+    "points": ["Strategic Thinking", "Modern Technology", "User-Centered Design", "Intelligent Solutions"],
+    "visual": "A connected way forward",
+    "nodes": ["Ideas", "People", "Systems", "Impact"]
+  },
+  "contact": {
+    "eyebrow": "Start a conversation",
+    "title": "HAVE AN IDEA?\nLET’S BUILD IT.",
+    "body": "Your next digital project starts with a conversation. Tell us what you’re imagining.",
+    "form": {
+  "name": "Your name",
+  "namePlaceholder": "How should we address you?",
+  "email": "Email address",
+  "emailPlaceholder": "you@example.com",
+  "type": "What are you building?",
+  "typePlaceholder": "Choose a project type",
+  "types": {
+    "website": "Website / Landing Page",
+    "prototype": "Startup Prototype",
+    "automation": "AI Assistant / Automation",
+    "other": "Other"
+  },
+  "message": "Tell us about your project",
+  "messagePlaceholder": "A few details about your idea, goals, or timeline…",
+  "submit": "Send Inquiry",
+  "sending": "Sending your message…",
+  "required": "Please complete this field.",
+  "emailInvalid": "Enter a valid email address.",
+  "messageShort": "Please add a little more detail (at least 12 characters).",
+  "successTitle": "Message sent successfully!",
+  "successBody": "Thank you for contacting CODEXA. Your inquiry has been received. We will get back to you soon.",
+  "sendError": "Your message could not be sent. Please try again later.",
+  "reset": "Send another inquiry",
+    "formLabel": "Project inquiry form"
+}
+},
+"footer": {
+    "tagline": "Turn Ideas Into Digital Reality.",
+    "description": "From websites and digital products to intelligent AI-powered solutions, we help businesses transform ideas into experiences that move them forward.",
+    "navigation": "Explore",
+    "services": "What we do",
+    "contact": "Contact",
+    "social": "Social",
+    "emailPlaceholder": "Contact details coming soon",
+    "socialPlaceholder": "Social links coming soon",
+    "copyright": "All rights reserved.",
+    "credits": "Developed by Oumaima Bezzelalam",
+    "backToTop": "Back to top"
+  }
+}

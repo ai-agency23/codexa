@@ -1,0 +1,252 @@
+{
+  "meta": {
+    "title": "CODEXA — Studio numérique indépendant",
+    "description": "CODEXA transforme les idées ambitieuses en produits numériques modernes, sites web et solutions intelligentes."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "projects": "Projets",
+    "process": "Processus",
+    "contact": "Contact",
+    "talk": "Parlons de votre projet",
+    "menuOpen": "Ouvrir le menu de navigation",
+    "menuClose": "Fermer le menu de navigation",
+    "skip": "Passer au contenu",
+    "language": "Choisir la langue",
+    "navigation": "Navigation principale"
+  },
+  "hero": {
+    "eyebrow": "Studio numérique indépendant",
+    "headline": "BÂTISSONS\nLE MONDE DE DEMAIN.",
+    "body": "Des expériences numériques aux solutions intelligentes, CODEXA transforme les idées ambitieuses en produits numériques performants.",
+    "primary": "Lancer un projet",
+    "secondary": "Découvrir nos réalisations",
+    "scroll": "Faites défiler pour explorer",
+    "sceneLabel": "Cœur numérique interactif",
+    "dragHint": "Faites glisser pour explorer",
+    "loading": "Création du cœur numérique",
+    "unavailable": "Vue 3D indisponible",
+    "fallback": "La vue 3D interactive n’est pas disponible sur cet appareil. Le reste de l’expérience n’attend que vous.",
+    "orbitLabel": "Objet 3D interactif. Faites-le glisser pour le faire pivoter ; utilisez les commandes ou faites défiler pour explorer.",
+    "status": "Des systèmes numériques à visage humain",
+    "sceneControls": "Commandes de rotation du cœur numérique",
+    "rotateLeft": "Faire pivoter le cœur numérique vers la gauche",
+    "rotateRight": "Faire pivoter le cœur numérique vers la droite"
+  },
+  "about": {
+    "eyebrow": "Un studio tourné vers l’avenir",
+    "title": "NOUS TRANSFORMONS LES IDÉES EN EXPÉRIENCES NUMÉRIQUES.",
+    "body": "CODEXA est un studio numérique qui se consacre à la création de sites web modernes, de prototypes innovants et de solutions intelligentes. Nous associons technologie, design et réflexion stratégique pour donner vie aux idées sous forme de produits numériques fonctionnels.",
+    "principles": [
+      { "number": "01", "title": "Penser avec créativité", "body": "Aborder chaque défi sous un nouvel angle." },
+      { "number": "02", "title": "Créer intelligemment", "body": "Faire en sorte que chaque décision ait plus d’impact." },
+      { "number": "03", "title": "Aller de l’avant", "body": "Transformer les idées mûrement réfléchies en véritable élan." }
+    ],
+    "visual": {
+      "center": "Réalité\nnumérique",
+      "creativity": "Créativité",
+      "technology": "Technologie",
+      "business": "Entreprise",
+      "caption": "Là où les idées prennent forme"
+    }
+  },
+  "services": {
+    "eyebrow": "Nos services",
+    "title": "AU SERVICE\nDE VOTRE PROCHAINE ÉTAPE.",
+    "body": "De la première page au flux de travail intelligent, nous mobilisons les bons outils et la bonne approche pour relever chaque défi.",
+    "learnMore": "Découvrir le service",
+    "learnLess": "Afficher moins",
+    "visualLabel": "Concept de service",
+    "visuals": {
+      "website": "Présence numérique",
+      "websiteSub": "Une porte d’entrée plus claire",
+      "prototype": "Concept de produit",
+      "prototypeSub": "De l’esquisse au déclic",
+      "ai": "Intelligence connectée",
+      "aiSub": "Des flux de travail synchronisés"
+    },
+    "items": [
+      {
+        "number": "01",
+        "title": "Sites web et pages d’atterrissage",
+        "description": "Nous concevons et développons des sites web modernes et adaptatifs qui renforcent votre présence numérique et convertissent vos visiteurs en clients.",
+        "capabilities": ["Pages d’atterrissage", "Sites web d’entreprise", "Sites portfolio", "Sites de réservation", "Expériences web adaptatives"],
+        "visual": "website"
+      },
+      {
+        "number": "02",
+        "title": "Prototypes pour startups",
+        "description": "Nous transformons les idées naissantes en prototypes numériques interactifs qui aident les fondateurs à visualiser, tester et présenter leurs produits.",
+        "capabilities": ["Prototypes de MVP", "Concepts de startup", "Prototypes d’applications interactives", "Interfaces de produits numériques", "Expériences de validation de produit"],
+        "visual": "prototype"
+      },
+      {
+        "number": "03",
+        "title": "Assistants IA et automatisation",
+        "description": "Nous aidons les entreprises à gagner en efficacité grâce à des assistants IA intelligents, des flux de travail automatisés et des systèmes numériques connectés.",
+        "capabilities": ["Assistants IA", "Automatisation des activités", "Intégration des flux de travail", "Assistance clientèle optimisée par l’IA", "Processus métier intelligents"],
+        "visual": "ai"
+      }
+    ]
+  },
+
+  "projects": {
+    "eyebrow": "Nos réalisations",
+    "title": "DES IDÉES EN MOUVEMENT.\nDES PROJETS EN COURS.",
+    "body": "Découvrez les produits numériques qui prennent forme dans notre studio.",
+    "development": "En développement",
+    "explore": "Découvrir le projet",
+    "preview": "Capture du projet",
+    "previewLabel": "Capture du projet",
+    "cardIndex": "Projet",
+    "previews": {
+      "smile": {
+        "headline": "Des soins qui vous accompagnent",
+        "subline": "La physiothérapie, plus proche",
+        "action": "Trouvez votre parcours",
+        "label": "SMILE DZ · SANTÉ"
+      },
+      "taskflow": {
+        "headline": "Libérez votre esprit",
+        "subline": "Les priorités du jour",
+        "action": "Voir le flux de travail",
+        "label": "TASKFLOW · PRODUCTIVITÉ"
+      },
+      "campus": {
+        "headline": "Un campus connecté",
+        "subline": "Votre espace étudiant",
+        "action": "Découvrir le campus",
+        "label": "CAMPUS+ DZ · ÉDUCATION"
+      }
+    },
+    "items": [
+      {
+        "number": "01",
+        "name": "SMILE DZ",
+        "category": "Santé / Site web de physiothérapie",
+        "description": "Une expérience numérique moderne qui facilite l'accès des femmes aux services de physiothérapie.",
+        "preview": "smile"
+      },
+      {
+        "number": "02",
+        "name": "TASKFLOW",
+        "category": "Productivité / Application web",
+        "description": "Une plateforme de productivité conçue pour organiser les tâches, gérer les flux de travail et améliorer la productivité quotidienne.",
+        "preview": "taskflow"
+      },
+      {
+        "number": "03",
+        "name": "CAMPUS+ DZ",
+        "category": "Éducation / Application étudiante",
+        "description": "Un concept numérique conçu pour offrir aux étudiants une expérience universitaire plus connectée et interactive.",
+        "preview": "campus"
+      }
+    ],
+    "details": {
+      "close": "Fermer les détails du projet",
+      "status": "État du projet",
+      "taskflow": {
+        "type": "APPLICATION WEB",
+        "tagline": "Travaillez mieux. Restez organisé.",
+        "overviewTitle": "Présentation du projet",
+        "overview": "TaskFlow est une application web de productivité conçue pour aider les utilisateurs à gérer leurs tâches, organiser leurs activités et suivre leur progression quotidienne.",
+        "featuresTitle": "Fonctionnalités principales",
+        "features": [
+          "Gestion des tâches",
+          "Tableau de bord et suivi de progression",
+          "Vue calendrier",
+          "Recherche et filtres",
+          "Interface multilingue (FR / AR / EN)",
+          "Authentification des utilisateurs"
+        ],
+        "technologiesTitle": "Technologies",
+        "technologies": ["React", "Vite", "Supabase"],
+        "status": "En développement"
+      },
+      "campus": {
+        "type": "CONCEPT D'APPLICATION MOBILE",
+        "tagline": "Votre campus, connecté.",
+        "overviewTitle": "Présentation du projet",
+        "overview": "Campus+ DZ est un concept d'application mobile destiné aux étudiants, conçu pour réunir la vie académique, les informations universitaires et les activités étudiantes dans un espace connecté.",
+        "featuresTitle": "Fonctionnalités prévues",
+        "features": [
+          "Emploi du temps",
+          "Cours et ressources pédagogiques",
+          "Annonces universitaires",
+          "Communauté étudiante",
+          "Services du campus"
+        ],
+        "technologiesTitle": "Plateforme",
+        "technologies": ["Android", "Application mobile"],
+        "status": "Concept et développement"
+      }
+    }
+  },
+
+  "process": {
+    "eyebrow": "Une voie claire pour avancer",
+    "title": "DE L’IDÉE À LA\nRÉALITÉ NUMÉRIQUE.",
+    "body": "Un processus réfléchi permet de rester concentrés, de collaborer efficacement et d’avancer dans la bonne direction.",
+    "steps": [
+      { "number": "01", "title": "Découvrir", "body": "Nous prenons le temps de comprendre votre idée, vos objectifs, votre public et les besoins de votre activité." },
+      { "number": "02", "title": "Concevoir", "body": "Nous définissons l’expérience, la structure et l’orientation visuelle." },
+      { "number": "03", "title": "Développer", "body": "Nous transformons le concept en un produit numérique fonctionnel." },
+      { "number": "04", "title": "Lancer et faire évoluer", "body": "Nous préparons votre produit pour son lancement et vous accompagnons dans une démarche d’amélioration continue." }
+    ]
+  },
+  "why": {
+    "eyebrow": "Pourquoi CODEXA",
+    "title": "LA TECHNOLOGIE\nAU SERVICE D’UN BUT.",
+    "body": "Un travail numérique de qualité allie réflexion claire, design soigné et technologie utile.",
+    "points": ["Réflexion stratégique", "Technologies modernes", "Conception centrée sur l’utilisateur", "Solutions intelligentes"],
+    "visual": "Une voie connectée vers l’avenir",
+    "nodes": ["Idées", "Personnes", "Systèmes", "Impact"]
+  },
+  "contact": {
+    "eyebrow": "Entamons la conversation",
+    "title": "UNE IDÉE EN TÊTE ?\nDONNONS-LUI VIE.",
+    "body": "Votre prochain projet numérique commence par une conversation. Parlez-nous de ce que vous imaginez.",
+   "form": {
+  "name": "Votre nom",
+  "namePlaceholder": "Comment souhaitez-vous que nous vous appelions ?",
+  "email": "Adresse e-mail",
+  "emailPlaceholder": "vous@exemple.com",
+  "type": "Quel projet souhaitez-vous créer ?",
+  "typePlaceholder": "Choisissez un type de projet",
+  "types": {
+    "website": "Site web / Page d’atterrissage",
+    "prototype": "Prototype de startup",
+    "automation": "Assistant IA / Automatisation",
+    "other": "Autre"
+  },
+  "message": "Parlez-nous de votre projet",
+  "messagePlaceholder": "Quelques détails sur votre idée, vos objectifs ou votre calendrier…",
+  "submit": "Envoyer la demande",
+  "sending": "Envoi de votre message…",
+  "required": "Veuillez remplir ce champ.",
+  "emailInvalid": "Veuillez saisir une adresse e-mail valide.",
+  "messageShort": "Veuillez ajouter quelques précisions (au moins 12 caractères).",
+  "successTitle": "Message envoyé avec succès !",
+  "successBody": "Merci d’avoir contacté CODEXA. Votre demande a bien été reçue. Nous vous répondrons dans les meilleurs délais.",
+  "sendError": "Votre message n’a pas pu être envoyé. Veuillez réessayer plus tard.",
+  "reset": "Envoyer une autre demande",
+  "formLabel": "Formulaire de demande de projet"
+},
+  "footer": {
+    "tagline": "Des idées à la réalité numérique.",
+    "description": "Des sites web aux produits numériques et aux solutions intelligentes propulsées par l’IA, nous aidons les entreprises à transformer leurs idées en expériences qui les font avancer.",
+    "navigation": "Explorer",
+    "services": "Nos services",
+    "contact": "Contact",
+    "social": "Réseaux sociaux",
+    "emailPlaceholder": "Coordonnées bientôt disponibles",
+    "socialPlaceholder": "Liens vers les réseaux sociaux bientôt disponibles",
+    "copyright": "Tous droits réservés.",
+    "credits": "Developed by Oumaima Bezzelalam",
+    "backToTop": "Retour en haut"
+  }
+} 
+}
+
