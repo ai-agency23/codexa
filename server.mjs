@@ -3,8 +3,13 @@ import 'dotenv/config';
 import express from 'express';
 import { Resend } from 'resend';
 import rateLimit from 'express-rate-limit';
+import path from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const app = express();
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = path.dirname(__filename);
+const distPath = path.join(__dirname, 'dist');
 const PORT = process.env.PORT || 3001;
 
 app.use(express.json({ limit: '10kb' }));
@@ -108,7 +113,18 @@ app.post('/api/contact', contactLimiter, async (req, res) => {
     });
   }
 });
+// Serve the React frontend
+app.use(express.static(distPath));
 
+// Homepage
+app.get('/', (req, res) => {
+  res.sendFile(path.join(distPath, 'index.html'));
+});
+
+// React Router fallback
+app.get(/.*/, (req, res) => {
+  res.sendFile(path.join(distPath, 'index.html'));
+});
 app.listen(PORT, () => {
   console.log(`CODEXA API running on http://localhost:${PORT}`);
 });
