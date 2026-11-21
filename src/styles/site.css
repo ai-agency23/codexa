@@ -228,6 +228,15 @@ img { max-width: 100%; }
 .project-card__meta { display: flex; align-items: center; justify-content: space-between; gap: 0.7rem; color: #8897af; font-family: var(--font-mono); font-size: 0.52rem; letter-spacing: 0.09em; text-transform: uppercase; }
 .project-status { display: inline-flex; align-items: center; gap: 0.38rem; color: #a6bacd; font-size: 0.49rem; white-space: nowrap; }
 .project-status i { width: 5px; height: 5px; border-radius: 50%; background: #74ddce; box-shadow: 0 0 10px rgba(116, 221, 206, 0.48); }
+/* Published project status */
+.project-status--live {
+  color: #74ddce;
+}
+
+.project-status--live i {
+  background: #74ddce;
+  box-shadow: 0 0 12px rgba(116, 221, 206, 0.7);
+}
 .project-card__category { margin: 0.45rem 0 0; color: #e4e8f2; font-family: var(--font-display); font-size: clamp(1.14rem, 2vw, 1.65rem); font-weight: 540; letter-spacing: -0.035em; }
 .project-card__explore { display: flex; width: 100%; align-items: center; justify-content: space-between; margin-block-start: 0.5rem; padding: 0.45rem 0 0.15rem; border: 0; background: transparent; color: var(--cyan); cursor: pointer; font-size: 0.68rem; text-align: start; }
 .project-card__explore:hover { color: #b7f3ff; }

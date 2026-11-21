@@ -140,11 +140,10 @@ function ProjectCard({ item, t, direction, onOpen }) {
       <div className="project-card__content">
         <div className="project-card__meta">
           <span>{item.number} / {item.name}</span>
-
-          <span className="project-status">
-            <i />
-            {t.projects.development}
-          </span>
+<span className={`project-status ${isSmile ? 'project-status--live' : ''}`}>
+  <i />
+  {isSmile ? t.projects.live : t.projects.development}
+</span>
         </div>
 
         <p className="project-card__category">{item.category}</p>
