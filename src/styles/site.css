@@ -543,7 +543,7 @@ html[lang='ar'] .eyebrow, html[lang='ar'] .hero__eyebrow, html[lang='ar'] .hero_
   .about-visual__orbit--outer {
     animation: none;
   }
-
+}
 /* Project Details Modal */
 
 
@@ -754,6 +754,4 @@ html[lang='ar'] .eyebrow, html[lang='ar'] .hero__eyebrow, html[lang='ar'] .hero_
 .site[dir='rtl'] .project-modal__close {
   float: left;
   margin: -8px 12px 8px -8px;
-}
-
 }

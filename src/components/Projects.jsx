@@ -81,7 +81,7 @@ function ProjectModal({ project, t, direction, onClose }) {
         <p className="project-modal__tagline">{project.tagline}</p>
 
         <div className="project-modal__visual">
-          <ProjectVisual type={project.preview} t={t} />
+          <ProjectVisual type={project.preview} t={t} variant="details" />
         </div>
 
         <section className="project-modal__section">
